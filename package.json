@@ -1,0 +1,14 @@
+{
+  "name": "fifth-third-email",
+  "version": "1.0.0",
+  "description": "a recreation of Fifth Third Bank's financial protection email in HTML",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Malachi Bowerbank",
+  "license": "ISC",
+  "dependencies": {
+    "mjml": "^4.4.0"
+  }
+}

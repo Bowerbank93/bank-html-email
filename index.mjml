@@ -1,0 +1,196 @@
+<mjml>
+    <mj-head>
+        <mj-title>How to protect your finances online</mj-title>
+    </mj-head>
+    <mj-body background-color="#fff"
+             width="600px">
+            <!-- Notice -->
+            <mj-section padding="0">
+                <mj-column>
+                    <mj-text color="#003DA5"
+                              align="center">
+                        Having trouble viewing this email? <span><a href="#">View Online</a></span>
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+
+            
+        <mj-section padding="0">
+            <!-- Logo -->
+            <mj-column 
+                       background-color="#003DA5"
+                       width="100%">
+                <mj-image src="https://www.53.com/content/dam/fifth-third/promos/landing-pages/fee-shark/fifth-third-logo.png" 
+                        alt="Fifth Third Bank Logo"
+                        width="140px"/>
+            </mj-column>
+        </mj-section>
+
+            <!-- Hero -->
+            <mj-hero mode="fixed-height"
+                     height="262px"
+                     background-url="https://www.53.com/content/dam/fifth-third/article-images/795x530_article_protect_your_finances.jpg"
+                     background-color="#dedede"
+                     background-height="162px"
+                     padding-right="50px">
+
+                     <mj-text color="#000"
+                              font-weight="700"
+                              line-height="25px"
+                              padding="0 80px 0 15px">
+                         <h1>Protecting your finances <br>in the digital age</h1>
+                     </mj-text>
+                     <mj-text color="#000"
+                              font-size="14px"
+                              font-weight="700">
+                         <p>Get answers to your most common <br>online banking security questions.</p>
+                     </mj-text>
+
+                     <mj-button font-family="Helvetica"
+                                font-size="15px"
+                                font-weight="600"
+                                background-color="#00AE65"
+                                padding="0 20px 20px 20px"
+                                align="left"
+                                inner-padding="10px 40px">
+                         Learn more
+                     </mj-button>
+            </mj-hero>
+
+            <!-- Section 1 -->
+            <mj-section padding="10px 0"
+                        direction="rtl">
+                <!-- Image on Right-->
+                <mj-column width="50%">
+                    <mj-image src="https://www.53.com/content/dam/fifth-third/article-images/795x530_article_estate_settlement_101.jpg" alt="" />
+                </mj-column>
+
+                <!-- Text on Left -->
+                <mj-column width="50%">
+                    <mj-text line-height="20px">
+                        <h3 style="font-size: 18px">Your guide to being an estate executor</h3>
+                        <p style="font-size: 14px">How to carry out a loved one's last will and testament.</p>
+                    </mj-text>
+                    <mj-text font-size="16px"
+                             font-weight="600">
+                       <a style="color: #003DA5;" href="https://www.53.com/content/fifth-third/en/wealth-management/resource-center/wealth-estate-planning/estate-settlement-101.html?cid=em:et:insights_education::">Get the guide</a> 
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+
+            <!-- Section 2 -->
+            <mj-section padding="10px 0"
+                        direction="rtl">
+                <!-- Image on Right-->
+                <mj-column width="50%">
+                    <mj-image src="https://www.53.com/content/dam/fifth-third/article-images/795x510_article_trusts_basics.jpg" alt="" />
+                </mj-column>
+
+                <!-- Text on Left -->
+                <mj-column width="50%">
+                    <mj-text line-height="20px">
+                        <h3 style="font-size: 18px">Trusts 101</h3>
+                        <p style="font-size: 14px">Understand how 7 widely used trusts work and when they're useful.</p>
+                    </mj-text>
+                    <mj-text font-size="16px"
+                             font-weight="600">
+                       <a style="color: #003DA5;" href="https://www.53.com/content/fifth-third/en/wealth-management/resource-center/personal-finance/understanding-the-basics-of-trusts.html?cid=em:et:insights_education::">Read on</a> 
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+
+             <!-- Section 3 -->
+            <mj-section padding="10px 0"
+                        direction="rtl">
+                <!-- Image on Right-->
+                <mj-column width="50%">
+                    <mj-image src="https://www.53.com/content/dam/fifth-third/article-images/795x532-article-images_0121_professional-businessman-graphs-technology.jpg" alt="" />
+                </mj-column>
+
+                <!-- Text on Left -->
+                <mj-column width="50%">
+                    <mj-text line-height="20px">
+                        <h3 style="font-size: 18px">How to become an attractive loan candidate </h3>
+                        <p style="font-size: 14px">Consider these important factors in your financial life.</p>
+                    </mj-text>
+                    <mj-text font-size="16px"
+                             font-weight="600">
+                       <a style="color: #003DA5;" href="https://www.53.com/content/fifth-third/en/personal-banking/resource-center/money-management/how-to-become-an-attractive-loan-candidate.html?cid=em:et:insights_education::">See the details</a> 
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+
+                
+                <mj-section> 
+                    <!-- App Button -->
+                     <mj-column>
+                        <mj-button border-radius="0"
+                                    font-size="15px"
+                                    font-weight="600">
+                            Download the App
+                        </mj-button>
+                    </mj-column>
+                    <!-- Social Media -->
+                    <mj-column>
+                        <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+                            <mj-social-element name="facebook" background-color="#414141" href="https://www.facebook.com/FifthThirdBank"></mj-social-element>
+                            <mj-social-element name="twitter" background-color="#414141" href="https://twitter.com/fifththird"></mj-social-element>
+                            <mj-social-element name="youtube" background-color="#414141" href="https://www.youtube.com/c/fifththirdbank"></mj-social-element>
+                            <mj-social-element name="linkedin" background-color="#414141" href="https://www.linkedin.com/company/fifth-third-bank/"></mj-social-element>
+                            <mj-social-element name="instagram" background-color="#414141" href="https://www.instagram.com/fifththirdbank/"></mj-social-element>
+                        </mj-social>
+                    </mj-column>
+                </mj-section>
+
+                <mj-section background-color="#D7D7D7"
+                            padding="0"
+                            border="1px solid #000">
+                    <mj-column padding="0"
+                                width="50%">
+                        <mj-text padding="0 0 0 15px">
+                            <h3 style="margin-top: 10px; margin-bottom: 0">Email Security information</h3>
+                        </mj-text>
+                    </mj-column>
+
+                    <mj-column padding="0"
+                                width="50%">
+                        <mj-text padding="0 0 0 15px">
+                            <p><a style="color: #363636" href="#">Email Privacy</a> |
+                            <a style="color: #363636" href="#"> Customer Service</a></p>
+                        </mj-text>
+                    </mj-column>
+                </mj-section>
+
+                <mj-section padding="0"
+                            border-right="1px solid #000"
+                            border-left="1px solid #000"
+                            border-bottom="1px solid #000">
+                    <mj-column>
+                        <mj-text line-height="20px">
+                            <p>This email was intended for: <a style="color: #000; text-decoration: none;" href="mailto:user@email.com">user@email.com</a><br> 
+                            Security and confidentiality of your personal information is one of our highest priorities. We will never request that you provide, update or verify via email your personal or account information, including passwords, Social Security Number and PIN(s). If you receive such an email request, please email us at 53investigation@security.53.com immediately. </p>
+
+                            <p>Learn more about how to protect your <a style="color: #000;" href="https://www.53.com/content/fifth-third/en/mkg/lp-phishing.html?cid=em:et:insights_education::">personal information.</a></p>
+                        </mj-text>
+                    </mj-column>
+                    
+                </mj-section>
+
+                <mj-section>
+                    <mj-column>
+                        <mj-text line-height="20px">
+                            <h3>How to Unsubscribe</h3>
+
+                            <p>This is a promotional email from Fifth Third Bank. You may <a style="color: #000;" href="http://pages.email.53.com/page.aspx?qs=5c591a8916642e73d591cfcb4aa1ddaddf2350332b71336039d1c504763dcaca8867fdac3044a8970791e30b50dcc1f37d15500b0e1eefcf108dadd05967f0c52898be819b7cd801ca57492273230f8c41175ab17a29c78720b9e0e410b8bf03778a1f8f183768288bf5d71d159d559d516edd8520b30148b2e3acbc59ed4e6d12603025f36d8f0b">unsubscribe</a> anytime to stop receiving
+                             marketing emails about Fifth Third products and services. </p>
+                        </mj-text>
+
+                        <mj-text line-height="20px">
+                            <p>Copyright &copy; 2019 Fifth Third Bank Member FDIC.  Equal Housing Lender Equal Housing Lender. </p>
+                            <p>38 Fountain Square Plaza <br>Cincinnati, Ohio 45202</p>
+                        </mj-text>
+                    </mj-column>
+                </mj-section>
+
+    </mj-body>
+</mjml>
